@@ -1,0 +1,10 @@
+Installation guide for those who had Windows 7, 10, 8.1 & Server 2012
+
+Start the file: wotok_mdl. cmd, choose the option number 3 and install. It will take a while so be patient.
+
+At the end of the installation, from the Activator folder, start the OInstal file, utilities, check the item: KMS online, click Office RETAIL = > VL and activate Office.
+
+---------------------------------
+
+
+	FileCR.com
